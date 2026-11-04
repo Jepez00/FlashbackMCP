@@ -1,0 +1,15 @@
+{
+  "name": "flashback-mcp-server",
+  "version": "1.0.0",
+  "description": "Local MCP server for controlling Flashback from compatible AI clients",
+  "license": "UNLICENSED",
+  "author": "Jepez",
+  "type": "module",
+  "private": true,
+  "bin": {
+    "flashback-mcp-server": "server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
